@@ -1,0 +1,2 @@
+# Toxic-substance-detection-app
+- an object-oriented application with the help of the C ++ programming language, but also of the integrated development environment of Arduino, which detects the existence of smoke, but also of gas leaks, and which starts a buzzer and an RGB LED, changing their sound, respectively bright intensity , depending on the amount of gas detected in the air. Also, if the set limit is much exceeded, then a propeller motor starts to remove toxic substances.
